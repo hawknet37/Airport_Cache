@@ -5,7 +5,7 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.RemovalListener;
 import com.google.common.cache.RemovalNotification;
 import dev.hawknet37.airport_cache.entity.Airport;
-import dev.hawknet37.airport_cache.entity.CacheEntry; // <-- Import lớp CacheEntry
+import dev.hawknet37.airport_cache.entity.CacheEntry;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
