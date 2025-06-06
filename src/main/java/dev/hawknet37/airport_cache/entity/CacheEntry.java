@@ -1,4 +1,4 @@
-package dev.hawknet37.airport_cache.entity; // Hoặc package khác tùy bạn
+package dev.hawknet37.airport_cache.entity;
 
 public class CacheEntry<T> {
     private final T value;
